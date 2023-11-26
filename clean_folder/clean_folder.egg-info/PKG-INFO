@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 0.1.1
+Summary: Sorting files into folders
+Home-page: https://github.com/yufira/first_project
+Author: Yulia Fironova
+Author-email: fironovayu@gmail.com
+License: MIT
+Description-Content-Type: text/x-rst
+
+Sorting files in folders
